@@ -1,84 +1,124 @@
-<h1 align="left">Hi 👋! My name is Mohamed Zaki</h1>
+<h1 align="center">Hi there  👋, I'm Mohamed Zaki</h1>
 
 ###
 
-<h2 align="left">DevOps Engineer | Focused on cloud, automation, CI/CD and IaC</h2>
+<h3 align="center">🚀 Junior DevOps Engineer</h3>
 
 ###
 
-<h3 align="left">Tools & Technologies</h3>
+<h2 align="left">📌 About Me</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" alt="linux logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="65" alt="centos logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="65" alt="redhat logo"  />
-  <img width="26" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="65" alt="bash logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="65" alt="docker logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="65" alt="nginx logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="65" alt="apache logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" alt="python logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="65" alt="ansible logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="65" alt="amazonwebservices logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="65" alt="terraform logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="65" alt="kubernetes logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="65" alt="argocd logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="65" alt="grafana logo"  />
-  <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="65" alt="prometheus logo"  />
-  <img width="26" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="65" alt="jenkins logo"  />
-  <img width="26" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="65" alt="githubactions logo"  />
+<p align="left">Results-driven DevOps Engineer experienced with Kubernetes, CI/CD pipelines, Infrastructure as Code, and AWS. Skilled at automating cloud infrastructure, developing robust scripts, and managing Linux environments to deliver scalable, reliable, and high-performance systems. Passionate about optimizing workflows and building resilient cloud-native solutions.</p>
+
+###
+
+<h2 align="left">🛠️ Tools & Skills</h2>
+
+###
+
+<h4 align="left">☁️ Cloud & DevOps</h4>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="35" alt="kubernetes logo"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NpYXR3MHJvNjZ1bm4zazI3NzAzc3J2MGRsbWZnbGIwazBlZDFmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
-
-###
-
-<h3 align="left">Connect with Me</h3>
+<h4 align="left">⚙️ CI/CD & GitOps Tools</h4>
 
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="35" alt="jenkins logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="35" alt="githubactions logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=black&style=for-the-badge" height="35" alt="argocd logo"  />
+</div>
+
+###
+
+<h4 align="left">👨‍💻 Scripting & Version Control</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="35" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
+</div>
+
+###
+
+<h4 align="left">🛰️ IaC & Monitoring</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="35" alt="terraform logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="35" alt="ansible logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="35" alt="prometheus logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="35" alt="grafana logo"  />
+</div>
+
+###
+
+<h4 align="left">🌐 Operating Systems & Web Servers</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Red Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" height="35" alt="redhat logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=for-the-badge" height="35" alt="centos logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="35" alt="nginx logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="35" alt="apache logo"  />
+</div>
+
+###
+
+<h2 align="left">📬 Connect with Me</h2>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mohamedzaki827@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedzaakii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamedzaakii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Mohamedzaakii&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedzaakii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamedzaakii/Mohamedzaakii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedzaakii/Mohamedzaakii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamedzaakii/Mohamedzaakii/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
