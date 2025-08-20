@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Results-driven DevOps Engineer experienced with Kubernetes, CI/CD pipelines, Infrastructure as Code, and AWS. Skilled at automating cloud infrastructure, developing robust scripts, and managing Linux environments to deliver scalable, reliable, and high-performance systems. Passionate about optimizing workflows and building resilient cloud-native solutions.</p>
+<p align="left">DevOps Engineer with expertise in Kubernetes, CI/CD pipelines, Infrastructure as Code with Terraform, Configuration Management with Ansible, and AWS, focused on automating cloud environments, managing Linux systems, and delivering resilient, secure, and high-performance cloud-native solutions.</p>
 
 ###
 
