@@ -1,16 +1,17 @@
 <h1 align="center">Hi there 👋 I'm Mohamed Zaki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2000&color=FFFFFF&center=true&vCenter=true&width=850&lines=DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=DevOps+Engineer&duration=4000&eraseDelay=2000" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=4000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Kubernetes+|+AWS+|+GitHub+Actions+|+Terraform+|+Ansible" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=Kubernetes+|+AWS+|+GitHub+Actions+|+Terraform+|+Ansible&duration=5000&eraseDelay=2000" alt="Tech Stack Animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=6000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Docker+|+Helm+|+Prometheus+|+Linux" alt="Additional Tech Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=Docker+|+Helm+|+Prometheus+|+Linux&duration=5000&eraseDelay=2000" alt="Additional Tech Animation" />
 </p>
+
 
 ### Summary
 ---
