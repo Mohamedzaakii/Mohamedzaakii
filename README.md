@@ -16,7 +16,7 @@
 ### Summary
 ---
 - 🌱 Currently expanding expertise in **Helm, Prometheus, and Grafana**.
-- 💬 Ask me about linux, AWS, and CI/CD. 
+- 💬 Ask me about Linux, AWS, and CI/CD. 
 - 👯 I’m looking to collaborate on **open-source DevOps projects**.  
 - 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
 
