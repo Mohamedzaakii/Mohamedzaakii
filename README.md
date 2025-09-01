@@ -14,17 +14,15 @@
 
 
 ### Summary
-##
+
 - 🌱 Currently expanding expertise in **Helm, Prometheus, and Grafana**.
 - 💬 Ask me about Linux, AWS, and CI/CD. 
 - 👯 I’m looking to collaborate on **open-source DevOps projects**.  
 - 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
-
-
-
+---
 
 ### Tools & Technologies
-##
+
 <div align="left">
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
@@ -102,10 +100,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="50" alt="centos logo" />
   </a>
 </div>
+<div align="left">
+  <!-- all your icons -->
+</div>
+
+---
+
 
 
 ### GitHub Stats
-##
+
 <div align="center" style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <div style="width: 100%; display: flex; justify-content: space-between; align-items: flex-end;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedzaakii&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
@@ -115,10 +119,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzaakii&theme=dracula" alt="GitHub Streak" />
   </div>
 </div>
+<div align="left">
+  <!-- all your icons -->
+</div>
+
+---
 
 
 ### Connect & Collaborate
-##
+
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="50" width="50" alt="linkedin logo" />
