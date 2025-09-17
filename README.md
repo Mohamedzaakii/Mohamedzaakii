@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 <h1 align="center">Hi there 👋 I'm Mohamed Zaki</h1>
 
 <p align="center">
@@ -15,7 +16,7 @@
 
 ### Summary
 
-- 🌱 Currently expanding expertise in **Helm, Prometheus, and Grafana**.
+- 🌱 Currently expanding expertise in **Kubernetes**.
 - 💬 Ask me about Linux, AWS, and CI/CD. 
 - 👯 I’m looking to collaborate on **open-source DevOps projects**.  
 - 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
