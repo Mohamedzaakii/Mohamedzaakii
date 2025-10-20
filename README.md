@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <h4 align="center">Kubernetes | AWS | GitHub Actions | Terraform | Ansible</h4>
+  <h3 align="center">Kubernetes | AWS | GitHub Actions | Terraform | Ansible</h4>
 </p>
 
 <p align="center">
-  <h4 align="center">Docker | Helm | Prometheus | Linux</h4>
+  <h3 align="center">Docker | Helm | Prometheus | Linux</h4>
 </p>
 
 ### Summary
