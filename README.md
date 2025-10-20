@@ -2,23 +2,21 @@
 <h1 align="center">Hi there 👋 I'm Mohamed Zaki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=DevOps+Engineer&duration=4000&eraseDelay=2000" alt="Typing SVG" />
+  <h3 align="center">DevOps Engineer</h3>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=Kubernetes+|+AWS+|+GitHub+Actions+|+Terraform+|+Ansible&duration=5000&eraseDelay=2000" alt="Tech Stack Animation" />
+  <h4 align="center">Kubernetes | AWS | GitHub Actions | Terraform | Ansible</h4>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=FFFFFF&center=true&vCenter=true&width=850&lines=Docker+|+Helm+|+Prometheus+|+Linux&duration=5000&eraseDelay=2000" alt="Additional Tech Animation" />
+  <h4 align="center">Docker | Helm | Prometheus | Linux</h4>
 </p>
-
 
 ### Summary
 
 - 🌱 Currently expanding expertise in **Kubernetes**.
-- 💬 Ask me about Linux, AWS, and CI/CD. 
-- 👯 I’m looking to collaborate on **open-source DevOps projects**.  
+- 💬 Ask me about Linux, AWS, and CI/CD.   
 - 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
 ---
 
