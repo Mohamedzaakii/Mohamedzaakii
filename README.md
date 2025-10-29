@@ -63,10 +63,28 @@
     <img src="https://skillicons.dev/icons?i=grafana" height="50" alt="grafana logo" />
   </a>
   <img width="15" />
+
+  <a href="https://grafana.com/oss/loki/" target="_blank">
+    <img src="https://grafana.com/static/img/logos/logo-loki.svg" height="50" alt="loki logo" />
+  </a>
+  <img width="15" />
   <a href="https://www.elastic.co/elasticsearch/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="elasticsearch logo" />
   </a>
   <img width="15" />
+<a href="https://trivy.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/trivy/1904DA" height="50" alt="trivy logo" />
+</a>
+<img width="15" />
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sql server logo" />
+</a>
+<img width="15" />
+   <a href="https://slack.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/slack/4A154B" height="50" alt="slack logo" />
+  </a>
+  <img width="15" />
+  
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
   </a>
