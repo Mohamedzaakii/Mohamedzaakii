@@ -6,18 +6,16 @@
 </p>
 
 <p align="center">
-  <h3 align="center">Kubernetes | AWS | GitHub Actions | Terraform | Ansible</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohamedzaakii&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </p>
 
-<p align="center">
-  <h3 align="center">Docker | Helm | Prometheus | Linux</h4>
-</p>
 
-### Summary
-
-- 🌱 Currently expanding expertise in **Kubernetes**.
-- 💬 Ask me about Linux, AWS, and CI/CD.   
-- 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)** for professional inquiries or collaboration opportunities.
+- 🌱 Currently building hands-on projects with Kubernetes, Helm, and Monitoring tools.
+- 💬 Experienced with Linux, AWS, Docker, Terraform, Ansible, and CI/CD pipelines.
+- 🚀 I enjoy designing scalable cloud infrastructures and automating deployments.
+- 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)**
 ---
 
 ### Tools & Technologies
@@ -143,7 +141,7 @@
 ---
 
 
-### Connect & Collaborate
+### Connect with me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block;">
