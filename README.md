@@ -15,9 +15,7 @@
 - 💬 Experienced with Linux, AWS, Docker, Terraform, Ansible, and CI/CD pipelines.
 - 🚀 I enjoy designing scalable cloud infrastructures and automating deployments.
 - 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)**
-- Resume:
 
-   [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1hV5cej64v0eda06-VktY2QkYTvkE5lIx/view?usp=sharing)
 
 ---
 
