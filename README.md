@@ -1,9 +1,7 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 <h1 align="center">Hi there 👋 I'm Mohamed Zaki</h1>
 
-<p align="center">
-  <h3 align="center">DevOps Engineer</h3>
-</p>
+<h2 align="center" style="font-size: 1.5em;">DevOps Engineer</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,11 +9,14 @@
   </a>
 </p>
 
-
 - 🌱 Currently building hands-on projects with Kubernetes, Helm, and Monitoring tools.
 - 💬 Experienced with Linux, AWS, Docker, Terraform, Ansible, and CI/CD pipelines.
 - 🚀 I enjoy designing scalable cloud infrastructures and automating deployments.
 - 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)**
+- Resume:
+
+   [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1hV5cej64v0eda06-VktY2QkYTvkE5lIx/view?usp=sharing)
+
 ---
 
 ### Tools & Technologies
