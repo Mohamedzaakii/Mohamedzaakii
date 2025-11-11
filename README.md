@@ -8,7 +8,16 @@
 - 🌱 Currently building hands-on projects with Kubernetes, Helm, and Monitoring tools.
 - 💬 Experienced with Linux, AWS, Docker, Terraform, Ansible, and CI/CD pipelines.
 - 🚀 I enjoy designing scalable cloud infrastructures and automating deployments.
-- 📫 Reach me at **[mohamedzaki827@gmail.com](mailto:mohamedzaki827@gmail.com)**
+- 📫 Connect with me at:
+     <div align="left">
+  <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="40" alt="linkedin logo" />
+  </a>
+  <img width="15" />
+   <a href="mailto:mohamedzaki827@gmail.com" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="40" alt="gmail logo" />
+  </a>
+</div>
 
 
 ---
@@ -135,24 +144,3 @@
     alt="GitHub Streak" 
   />
 </div>
-
-### Connect with me:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="40" alt="linkedin logo" />
-  </a>
-  <img width="15" />
-  <a href="mailto:mohamedzaki827@gmail.com" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="40" alt="gmail logo" />
-  </a>
-</div>
-
-
-
-
-
-
-
-
-
