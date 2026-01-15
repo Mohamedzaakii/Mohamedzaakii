@@ -5,9 +5,11 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Mohamedzaakii&theme=flat&no-frame=true&margin-w=10" />
 
-- 🌱 Currently building hands-on projects with Kubernetes, Helm, and Monitoring tools.
-- 💬 Experienced with Linux, AWS, Docker, Terraform, Ansible, and CI/CD pipelines.
-- 🚀 I enjoy designing scalable cloud infrastructures and automating deployments.
+### 👩‍💻 About Me
+DevOps Engineer focused on building and automating cloud-native infrastructure. I work hands-on with Linux, AWS, Kubernetes, Helm, Docker, Terraform, Ansible, and CI/CD pipelines using GitHub Actions and Argo CD. I enjoy designing scalable systems, automating deployments, and improving observability with Prometheus and Grafana.
+
+
+- 🌱 Currently building hands-on projects with Kubernetes, Argo CD, and Monitoring tools.
 - 📫 Connect with me at:
      <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block;">
@@ -29,6 +31,11 @@
     <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
   </a>
   <img width="15" />
+  <a href="https://argo-cd.readthedocs.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40" alt="argo cd logo" />
+</a>
+<img width="15" />
+
   <a href="https://helm.sh/" target="_blank">
     <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo" />
   </a>
@@ -144,3 +151,5 @@
     alt="GitHub Streak" 
   />
 </div>
+
+
