@@ -131,7 +131,7 @@ DevOps Engineer focused on building and automating cloud-native infrastructure. 
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect with me
 <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block; margin-right:40px;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="40" alt="linkedin logo" />
 </a>
