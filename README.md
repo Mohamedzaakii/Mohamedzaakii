@@ -139,6 +139,7 @@ DevOps Engineer focused on building and automating cloud-native infrastructure. 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="40" alt="gmail logo" />
 </a>
 
+---
 
 ### 📈 GitHub Stats
 
