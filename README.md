@@ -176,7 +176,7 @@ DevOps Engineer with hands-on experience in designing, deploying, and automating
     alt="GitHub Streak" 
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzaakii&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="display:inline-block; margin:10px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedzaakii&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" style="display:inline-block; margin:10px;" />
+  
 </div>
 
 
