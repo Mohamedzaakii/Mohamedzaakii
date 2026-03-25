@@ -170,19 +170,7 @@ DevOps Engineer with hands-on experience in designing, deploying, and automating
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <!-- Top Languages first -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzaakii&layout=compact&theme=dracula&hide_border=true&text_color=ffffff" 
-    alt="Top Languages" 
-    style="display:block; margin:10px auto;" 
-  />
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzaakii&theme=dracula&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzaakii&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="display:inline-block; margin:10px;" /> </div>
 
-  <!-- GitHub Streak below -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzaakii&theme=dracula&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" 
-    alt="GitHub Streak" 
-    style="display:block; margin:10px auto;" 
-  />
-</div>
+
 
