@@ -8,8 +8,15 @@
   </a>
 </h3>
 
+<table>
+<tr>
+<td width="420">
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+<img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" width="400"/>
+
+</td>
+
+<td valign="top">
 
 ### 💫 About Me
 
@@ -25,7 +32,9 @@
 
 📊 **Observability:** Prometheus, Grafana, Loki.
 
-<br><br><br><br><br><br><br><br><br><br><br clear="both"/>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
