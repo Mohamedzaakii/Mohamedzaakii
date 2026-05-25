@@ -1,4 +1,6 @@
-![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif" alt="MasterHead" />
+</p>
 <h1 align="center">Hi there 👋 I'm Mohamed Zaki</h1>
 
 
@@ -174,16 +176,13 @@
   </a>
 </div>
 
-
-
-### 📈 GitHub Stats
+<h3 align="left">📈 GitHub Stats:</h3>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mohamedzaakii&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
 
 </div>
-
 
 <div align="center">
 
