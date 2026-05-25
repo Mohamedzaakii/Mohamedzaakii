@@ -25,9 +25,9 @@
 
 📊 **Observability:** Prometheus, Grafana, Loki.
 
+<br clear="both"/>
 
 
-<br>
 
 <div align="center">
 
@@ -168,31 +168,24 @@
 </div>
 
 
+
 ### 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedzaakii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=Mohamedzaakii&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzaakii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</div>
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohamedzaakii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohamedzaakii&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedzaakii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&area_color=1F6FEB" />
 
 </div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedzaakii&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF&area=true&area_color=1F6FEB" />
-
-</div>
-
-
-
-
-
-
-
