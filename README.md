@@ -25,11 +25,11 @@
 
 🌱 **DevOps Engineer** building scalable cloud-native infrastructures.
 
+☸️ **Orchestration & Containerization:** Kubernetes (Kubeadm, EKS), Docker, Helm.
+
 🔭 **CI/CD Pipeline Expertise:** Jenkins, GitHub Actions, ArgoCD (GitOps).
 
 🛡️ **Security & Quality:** SonarQube (Quality Gates), Trivy, OWASP ZAP.
-
-☸️ **Orchestration & Containerization:** Kubernetes (Kubeadm, EKS), Docker, Helm.
 
 🏗️ **Infrastructure as Code & Cloud:** Terraform, Ansible, AWS (EC2, VPC, IAM, S3, RDS, ECS, CloudWatch).
 
