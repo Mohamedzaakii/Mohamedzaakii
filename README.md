@@ -21,13 +21,11 @@
 
 ☸️ **Orchestration & Containerization:** Kubernetes (Kubeadm, EKS), Docker, Helm.
 
-🏗️ **Infrastructure as Code & Cloud:** Terraform, Ansible, AWS (EC2, VPC, IAM, EC2, S3, RDS, ECS, CloudWatch).
+🏗️ **Infrastructure as Code & Cloud:** Terraform, Ansible, AWS (EC2, VPC, IAM, S3, RDS, ECS, CloudWatch).
 
 📊 **Observability:** Prometheus, Grafana, Loki.
 
-<br clear="both"/>
-
-
+<br><br><br><br><br><br><br><br><br><br><br clear="both"/>
 
 <div align="center">
 
