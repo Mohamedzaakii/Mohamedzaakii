@@ -1,176 +1,198 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 <h1 align="center">Hi there 👋 I'm Mohamed Zaki</h1>
 
-<h3 align="center" style="font-size: 1.5em;">DevOps Engineer</h3>
 
-
-### 👩‍💻 About Me
-
-DevOps Engineer with hands-on experience in designing, deploying, and automating scalable cloud-native infrastructures. Skilled in Kubernetes, Docker, Helm, Terraform, Ansible, AWS, and CI/CD pipelines. Passionate about improving system reliability, security, and observability using Prometheus, Grafana, and Loki. Committed to delivering high-quality automation solutions that accelerate development cycles and optimize operational efficiency.
-
-### 🛠️ Tools & Technologies
-
-
-<div align="left">
-
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer" alt="Typing SVG" />
   </a>
-  <img width="12" />
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://helm.sh/" target="_blank">
-    <img src="https://cdn.simpleicons.org/helm/0F1689" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://argo-cd.readthedocs.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="40"/>
-  </a>
-  <img width="12" />
+</h3>
 
 
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jenkins" height="40"/>
-  </a>
-  <img width="12" />
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
-  <a href="https://trivy.dev/" target="_blank">
-  <img src="https://cdn.simpleicons.org/trivy/1904DA" height="40"/>
-  </a>
-  <img width="12" />
+### 💫 About Me
 
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40"/>
+🌱 **DevOps Engineer** building scalable cloud-native infrastructures.
+
+🔭 **CI/CD Pipeline Expertise:** Jenkins, GitHub Actions, ArgoCD (GitOps).
+
+🛡️ **Security & Quality:** SonarQube (Quality Gates), Trivy, OWASP ZAP.
+
+☸️ **Orchestration & Containerization:** Kubernetes (Kubeadm, EKS), Docker, Helm.
+
+🏗️ **Infrastructure as Code & Cloud:** Terraform, Ansible, AWS (EC2, VPC, IAM, EC2, S3, RDS, ECS, CloudWatch).
+
+📊 **Observability:** Prometheus, Grafana, Loki.
+
+
+
+<br>
+
+<div align="center">
+
+### 🛠️ Languages & Tools 
+
+<!-- Row 1: Container & Orchestration (7 icons) -->
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="48"/>
 </a>
-<img width="12" />
-
- <a href="https://www.vaultproject.io/" target="_blank">
-  <img src="https://cdn.simpleicons.org/vault/FFEC6E" height="40"/>
+<img width="16" />
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="48"/>
 </a>
-<img width="12" />
-
-   
-  
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=prometheus" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=grafana" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://grafana.com/oss/loki/" target="_blank">
-    <img src="https://grafana.com/static/img/logos/logo-loki.svg" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40"/>
-  </a>
-  <img width="12" />
-
- 
-
-
-  
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://nginx.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nginx" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://httpd.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-  </a>
-  <img width="12" />
-
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
+<img width="16" />
+<a href="https://helm.sh/" target="_blank">
+  <img src="https://cdn.simpleicons.org/helm/0F1689" height="48"/>
 </a>
-<img width="12" />
+<img width="16" />
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=jenkins" height="48"/>
+</a>
+<img width="16" />
+<a href="https://github.com/features/actions" target="_blank">
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="48"/>
+</a>
+<img width="16" />
+<a href="https://argo-cd.readthedocs.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48"/>
+</a>
+<img width="16" />
+<a href="https://nginx.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nginx" height="48"/>
+</a>
+<br><br>
 
-  <a href="https://slack.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/>
-  </a>
-  <img width="12" />
+<!-- Row 2: Cloud, IaC & Security (7 icons) -->
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.ansible.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="48"/>
+</a>
+<img width="16" />
+<a href="https://trivy.dev/" target="_blank">
+  <img src="https://cdn.simpleicons.org/trivy/1904DA" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.vaultproject.io/" target="_blank">
+  <img src="https://cdn.simpleicons.org/vault/FFEC6E" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.zaproxy.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/zap/red" height="48"/>
+</a>
+<br><br>
 
-  <a href="https://www.redhat.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40"/>
-  </a>
-  <img width="12" />
+<!-- Row 3: Monitoring, Scripting & Databases (7 icons) -->
+<a href="https://prometheus.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=prometheus" height="48"/>
+</a>
+<img width="16" />
+<a href="https://grafana.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=grafana" height="48"/>
+</a>
+<img width="16" />
+<a href="https://grafana.com/oss/loki/" target="_blank">
+  <img src="https://grafana.com/static/img/logos/logo-loki.svg" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
+</a>
+<br><br>
 
-  <a href="https://www.centos.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40"/>
-  </a>
+<!-- Row 4: Version Control, Collaboration & OS (7 icons) -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="48"/>
+</a>
+<img width="16" />
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+<img width="16" />
+<a href="https://about.gitlab.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gitlab" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48"/>
+</a>
+<img width="16" />
+<a href="https://slack.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="48"/>
+</a>
+<img width="16" />
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="48"/>
+</a>
+<img width="16" />
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank">
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="48"/>
+</a>
 
 </div>
 
 
 
-### 📫 Connect with me
-<a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank" style="display:inline-block; margin-right:40px;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" width="40" alt="linkedin logo" />
-</a>
-<a href="mailto:mohamedzaki827@gmail.com" target="_blank" style="display:inline-block; margin-left:40px;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" width="40" alt="gmail logo" />
-</a>
-
+<h3 align="left">📫 Drop me a line:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohamed-zaaki/" target="_blank">
+    <img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohamedzaki827@gmail.com" target="_blank">
+    <img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" />
+  </a>
+</div>
 
 
 ### 📈 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedzaakii&theme=dracula&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzaakii&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="display:inline-block; margin:10px;" /> </div>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedzaakii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedzaakii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohamedzaakii&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6" />
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedzaakii&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF&area=true&area_color=1F6FEB" />
+
+</div>
+
+
+
+
 
 
 
